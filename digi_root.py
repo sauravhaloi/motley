@@ -6,6 +6,7 @@ __author__ = 'saurav'
  Program to find the digital root of a number
  http://en.wikipedia.org/wiki/Digital_root
  Digital Root can be used as a poor man's crude hashing techniques
+ Usage: python digi_root.py <Input Number>
 """
 
 import sys
